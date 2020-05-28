@@ -1,2 +1,2 @@
 # java-competencia-motociclismo
-Código N°2 en java de mi propiedad
+Código N°2 en Java de mi propiedad
